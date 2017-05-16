@@ -1,0 +1,25 @@
+/*This file is dedicated to keeping continuity
+ between text and layout within the webpage, 
+ generally once this made I wont touch it*/
+
+h1 {
+	font-family:Arial;
+	font-weight:;
+	font-size: 80px;
+	margin:0 0 0 0; /*removes default margins in h1 tags*/
+}
+
+h2 {
+	font-family:Arial;
+}
+
+h3 {
+	font-family:Arial;
+}
+
+h4 {
+	font-family:Arial;
+}
+p {
+	font-family:Arial;
+}
